@@ -356,3 +356,8 @@ Shells are fundamental tools in:
 ## ⭐ If you found this useful
 
 Consider giving this repo a ⭐!
+
+3.  # CPU Scheduling Simulator
+
+A Python-based simulator implementing FCFS, SJF, and Round Robin algorithms. It models process scheduling, calculates waiting and turnaround times, and demonstrates CPU execution behavior. This project helps understand core operating system concepts like scheduling strategies, process management, and performance evaluation in a simple, practical way.
+
